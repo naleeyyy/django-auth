@@ -1,0 +1,3 @@
+[submodule "django-auth-front"]
+	path = django-auth-front
+	url = https://github.com/naleeyyy/django-auth-front
